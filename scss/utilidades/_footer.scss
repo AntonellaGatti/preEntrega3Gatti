@@ -1,0 +1,26 @@
+footer {
+    background-color: rgb(252, 186, 4);
+    width: 100%;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer__redes {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5px;
+    display: inline;
+}
+
+
+.footer__redes a {
+    color: rgb(165, 1, 4);
+    font-weight: bold;
+}
+
+.footer__redes a:hover {
+    color: blanchedalmond;
+}
